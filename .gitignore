@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -102,3 +103,17 @@ dist
 
 # TernJS port file
 .tern-port
+=======
+abi/
+artifacts/
+cache/
+coverage/
+exports/
+node_modules/
+types/
+package-lock.json
+coverage.json
+.env
+.DS_Store
+bin/
+>>>>>>> 897ea38 (vanity registration system)
